@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "c35447d7-5458-3425-8d19-c13deb72a4bc",
+    "name": "CatMan",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
